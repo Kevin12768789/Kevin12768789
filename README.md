@@ -97,8 +97,8 @@
     <section id="contact">
         <h2>Contact Us</h2>
         <ul class="contact-info">
-            <li><strong>Phone:</strong> [Your Phone Number]</li>
-            <li><strong>Email:</strong> [Your Email Address]</li>
+            <li><strong>Phone:</strong> ++ 609-251-9898 </li>
+            <li><strong>Email:</strong> Kevinnavarro17@icloud.com</li>
             <li><strong>Address:</strong> Hamilton, NJ</li>
             <li><strong>Follow us on Social Media:</strong> [Links to social media profiles]</li>
         </ul>
